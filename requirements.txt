@@ -1,0 +1,29 @@
+# Core Deep Learning
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# Image Processing and Computer Vision
+opencv-python
+albumentations
+scikit-image
+
+# Data Processing and Visualization
+numpy
+pandas
+matplotlib
+seaborn
+
+# Explainable AI
+grad-cam
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+tqdm
+scikit-learn
+tensorboard
+pillow
